@@ -5,12 +5,12 @@ import time
 
 # replace with your user info bellow
 # and in command line, run `python dps_check_availability.py`
-email = 'xxxx@gmail.com'
-first_name = 'John'
-last_name = 'Doe'
-date_of_birth = 'MM/DD/YYYY'
-last4ssn = '0000'
-zipcode = '78750'
+email = 'anirudhreddycheerla@gmail.com'
+first_name = 'anirudh reddy'
+last_name = 'cheerla'
+date_of_birth = '12/24/1998'
+last4ssn = '1234'
+zipcode = '75252'
 type_id = 71 # service type id, 71 for new driver's license, 81 for renew license, 21 for road test.
 distance = 10 # How far from the zipcode. unit in miles
 
